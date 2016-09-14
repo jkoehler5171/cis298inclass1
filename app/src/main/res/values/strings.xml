@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CIS298inclass1</string>
+    <string name="question_text">Does this program work?</string>
+    <string name="true_button">Yeah I suppose</string>
+    <string name="false_button">No, totally broken</string>
+    <string name="correct_toast">Huzzah!</string>
+    <string name="incorrect_toast">Aww beans</string>
 </resources>
